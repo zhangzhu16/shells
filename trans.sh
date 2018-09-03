@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# ssh-copy-id -p 49721 fonsview@nm.csk.rhel.cc
+
+
 # scp -P 64922 -r csk.tar.xz fonsview@hl.csk.rhel.cc:/home/fonsview
 # scp -P 64922 -r auto.sh fonsview@hl.csk.rhel.cc:/home/fonsview
 
