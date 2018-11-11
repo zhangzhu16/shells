@@ -19,3 +19,10 @@
 
 scp -P 49721 -r csk.tar.xz fonsview@yn.csk.rhel.cc:/home/fonsview
 scp -P 49721 -r auto.sh fonsview@yn.csk.rhel.cc:/home/fonsview
+
+
+
+
+
+
+echo test
